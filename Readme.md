@@ -1,3 +1,5 @@
+https://github.com/Vanady-Beard/E_commerceapiPROJ.git
+
 # E-commerce Platform
 
 ## Overview
@@ -19,7 +21,7 @@ This project is a simple e-commerce platform built using Flask, Flask-SQLAlchemy
 - HTML, CSS, JavaScript
 
 ## Live Demo
-Check out the live application on Heroku: [E-commerce Platform](https://your-app-name.herokuapp.com/)
+Check out the live application on Heroku: [E-commerce Platform](https://ecommerce-app-0555-41f5061cf081.herokuapp.com/)
 
 ## GitHub Repository
 You can view the source code on GitHub: [GitHub Repository](https://github.com/Vanady-Beard/E_commerceapiPROJ.git)
